@@ -4,7 +4,7 @@
 
 
 - 🌱 I’m currently learning **C#**
-- I’m indie developer on Unity 3D
+- I’m developer on Unity 3D
 - 🌍 I speak Russian (native), English (A2)
 
 ### Connect with me:
