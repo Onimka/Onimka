@@ -20,6 +20,3 @@
 <a href="https://www.youtube.com/channel/UCw3fyEMdYs1SlZPcL-3Qgpg" target="blank"><img align="center" src="https://camo.githubusercontent.com/165da3cf9ab80bd8395e6de8c28077d68982319c6ecf871f6f54443c68886840/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f596f75547562652d2532334646303030302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d596f7554756265266c6f676f436f6c6f723d7768697465" alt="Onimka" height="30" width="110" /></a>
 
 </p>
-
-### Languages:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
